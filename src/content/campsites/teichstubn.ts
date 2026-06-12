@@ -25,7 +25,7 @@ const teichstubn: CampsiteConfig = {
   intro:
     "Direkt am eigenen Teich in der Mur-Au stehen 40 großzügige Stellplätze — mittendrin der familiengeführte Heuriger mit steirischen Schmankerln. Du parkst am Wasser und gehst zum Essen einfach rüber.",
 
-  logo: { src: `${IMG}/logo-e8510fb155.png`, alt: "Teichstub’n Gabersdorf Logo" },
+  logo: { src: `${IMG}/logo-086bb45fb8.png`, alt: "Teichstub’n Gabersdorf Logo" },
 
   statement: {
     text: "Bei uns campst du rund um den Teich — und der Heurige ist nie weiter als ein paar Schritte weg.",
@@ -41,7 +41,7 @@ const teichstubn: CampsiteConfig = {
     {
       title: "Heuriger mit Herz",
       text: "Familienbetrieb und Team verwöhnen dich im gemütlichen Gastraum oder auf der Terrasse — mit Qualität zu fairen Preisen.",
-      image: { src: `${IMG}/gallery-1db0905960.webp`, alt: "Service mit Jausenplatte im Gastraum der Teichstub’n" },
+      image: { src: `${IMG}/gallery-1db0905960-v2.webp`, alt: "Service mit Jausenplatte im Gastraum der Teichstub’n" },
     },
     {
       title: "Steirische Schmankerl",
@@ -80,7 +80,7 @@ const teichstubn: CampsiteConfig = {
       {
         title: "Großzügige Plätze am Wasser",
         text: "40 weitläufige Stellplätze gruppieren sich rund um den Teich — viel Platz, kurze Wege zum Heurigen und der Blick aufs Wasser inklusive.",
-        image: { src: `${IMG}/gallery-5a6411fd57.webp`, alt: "Wohnmobile auf den Stellplätzen rund um den Teich der Teichstub’n" },
+        image: { src: `${IMG}/gallery-5a6411fd57-v2.webp`, alt: "Wohnmobile auf den Stellplätzen rund um den Teich der Teichstub’n" },
       },
       {
         title: "Terrasse & Sanitär",
