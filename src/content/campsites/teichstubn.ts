@@ -79,12 +79,12 @@ const teichstubn: CampsiteConfig = {
     features: [
       {
         title: "Großzügige Plätze am Wasser",
-        text: "40 weitläufige Stellplätze gruppieren sich rund um den Teich — viel Platz, kurze Wege zum Heurigen und der Blick aufs Wasser inklusive.",
+        text: "40 weitläufige Stellplätze rund um den Teich — viel Platz, kurze Wege zum Heurigen und Blick aufs Wasser.",
         image: { src: `${IMG}/gallery-5a6411fd57-v2.webp`, alt: "Wohnmobile auf den Stellplätzen rund um den Teich der Teichstub’n" },
       },
       {
         title: "Terrasse & Sanitär",
-        text: "Von der herrlichen Sitzterrasse blickst du übers Wasser zu den Stellplätzen — WC, Duschen sowie Grauwasser- und Chemietoiletten-Entsorgung sind gleich daneben.",
+        text: "Auf der Sitzterrasse blickst du übers Wasser — WC, Duschen und Entsorgung für Grau- und Chemietoilette sind gleich daneben.",
         image: { src: `${IMG}/gallery-05230fcb5e.webp`, alt: "Überdachte Sitzterrasse mit Blick auf Wohnmobile am Teich" },
       },
     ],
