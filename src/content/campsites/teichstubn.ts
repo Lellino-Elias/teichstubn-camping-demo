@@ -41,7 +41,7 @@ const teichstubn: CampsiteConfig = {
     {
       title: "Heuriger mit Herz",
       text: "Familienbetrieb und Team verwöhnen dich im gemütlichen Gastraum oder auf der Terrasse — mit Qualität zu fairen Preisen.",
-      image: { src: `${IMG}/gallery-1db0905960-v2.webp`, alt: "Service mit Jausenplatte im Gastraum der Teichstub’n" },
+      image: { src: `${IMG}/gallery-a3405ca0c2.webp`, alt: "Gäste mit Jausenplatte und Wein im Gastraum der Teichstub’n" },
     },
     {
       title: "Steirische Schmankerl",
@@ -80,12 +80,12 @@ const teichstubn: CampsiteConfig = {
       {
         title: "Großzügige Plätze am Wasser",
         text: "40 weitläufige Stellplätze rund um den Teich — viel Platz, kurze Wege zum Heurigen und Blick aufs Wasser.",
-        image: { src: `${IMG}/gallery-5a6411fd57-v2.webp`, alt: "Wohnmobile auf den Stellplätzen rund um den Teich der Teichstub’n" },
+        image: { src: `${IMG}/amenity-a7d534e123.webp`, alt: "Wohnmobil am Stellplatz am Teich der Teichstub’n mit blauem Himmel" },
       },
       {
         title: "Terrasse & Sanitär",
         text: "Auf der Sitzterrasse blickst du übers Wasser — WC, Duschen und Entsorgung für Grau- und Chemietoilette sind gleich daneben.",
-        image: { src: `${IMG}/gallery-05230fcb5e.webp`, alt: "Überdachte Sitzterrasse mit Blick auf Wohnmobile am Teich" },
+        image: { src: `${IMG}/amenity-aa90173b24.webp`, alt: "Überdachte Sitzterrasse mit Blick auf den Teich und Wohnmobile" },
       },
     ],
   },
@@ -113,7 +113,14 @@ const teichstubn: CampsiteConfig = {
     headingEmphasis: "Teichstub’n",
     intro: "Ein paar Aufnahmen vom Platz am Wasser.",
     tag: "Mur-Au · Südsteiermark",
-    images: [],
+    images: [
+      { src: `${IMG}/amenity-1eb0be64d1.webp`, alt: "Wohnmobile und Zelt spiegeln sich im Teich der Teichstub'n" },
+      { src: `${IMG}/gallery-d30a3b9942.webp`, alt: "Knuspriges Backhenderl in der Teichstub'n" },
+      { src: `${IMG}/amenity-2a4e0837d4.webp`, alt: "Stellplätze am Teich mit Kirchturm von Gabersdorf" },
+      { src: `${IMG}/gallery-f16c382686.webp`, alt: "Große Schlachtplatte auf zweistöckigem Holzbrett" },
+      { src: `${IMG}/amenity-5ba194a23b.webp`, alt: "Wohnmobile am Teich der Teichstub'n im Sonnenschein" },
+      { src: `${IMG}/gallery-9ba9bf3ed5.webp`, alt: "Steirische Jausenplatte mit Aufschnitt und Käse" },
+    ],
   },
 
   booking: {
